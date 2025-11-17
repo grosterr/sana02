@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PointsAverage/PointsAverage.csproj" Id="8cf82830-9cf2-440f-a6aa-b30e69b21b0b" />
+  <Project Path="QuadraticEquation/QuadraticEquation.csproj" Id="feac087f-29ba-4f53-867d-f8b27e598221" />
+  <Project Path="SwitchValues/SwitchValues.csproj" Id="31b0df92-57b0-4448-be0d-91966b72a2e7" />
+  <Project Path="While/While.csproj" Id="a07871d5-0513-4e27-a964-b29f592ff5b1" />
+</Solution>
